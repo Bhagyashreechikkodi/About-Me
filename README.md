@@ -30,4 +30,4 @@ Check out my interactive Power BI dashboard:
 
 ## 🤝 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyashree-chikkodi-ab117824b/)  
-📧 Gmail: your-bhagyashreechikkodi0@gmail.com
+📧 Gmail: bhagyashreechikkodi0@gmail.com
