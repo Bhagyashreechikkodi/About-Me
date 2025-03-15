@@ -1,5 +1,3 @@
-# About-Me
-
 # Hey, Bhagyashree here! 👋  
 
 I am a **Computer Science and Engineering Student** with expertise in **Data Analytics, Excel, PowerBI, SQL and Python**.  
